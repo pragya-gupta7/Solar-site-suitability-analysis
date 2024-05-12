@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240505</CreaDate><CreaTime>12385700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Conversion Tools.tbx\PolygonToRaster" Date="20240505" Time="123857">PolygonToRaster Mines_Clip distance "E:\Prayga\final-yr project\Thematic maps\Mines.tif" CELL_CENTER NONE 30</Process></lineage></DataProperties></Esri></metadata>

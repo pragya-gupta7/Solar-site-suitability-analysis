@@ -1,0 +1,21 @@
+<PAMDataset>
+  <Metadata />
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>6.5</HistMax>
+        <BucketCount>7</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|1739058|12046|425103|1437995|612586|2090</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="DESCRIPTION">constant</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

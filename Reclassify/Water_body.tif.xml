@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20240505</CreaDate><CreaTime>12412200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.5\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20240505" Time="124122">Reclassify Water_body.tif Value "1 5;2 4;3 3;4 2;35 1" "E:\Prayga\final-yr project\Reclassify\Water_body.tif" DATA</Process></lineage></DataProperties></Esri></metadata>
